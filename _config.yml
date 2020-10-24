@@ -12,8 +12,9 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  twitter_username: SWVoiceDC
-  github_username:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
+  social_links:
+  twitter: SWVoiceDC
+  github:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
     # devto: jekyll
     # dribbble: jekyll
     #facebook: jekyll
