@@ -1,6 +1,5 @@
-title: Southwest Voice Digital Museum
-author: AU swa team
-name: GitHub User
+title: SW Capitol Digital Heritage Museum
+authors: Chris Williams, Dozie Anazia, Rocio Bereilh, Julia Murray, Gianna Williams
 email: your-email@domain.com
 description: # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -16,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: SWVoiceDC
-    github:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
+    twitter_username: SWVoiceDC
+    github_username:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
     # devto: jekyll
     # dribbble: jekyll
     #facebook: jekyll
