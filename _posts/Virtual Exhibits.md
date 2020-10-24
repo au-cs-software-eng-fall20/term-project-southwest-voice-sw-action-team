@@ -15,8 +15,12 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+# ArcGIS Story map embeds here
+<style> 
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+
+<div class="responsive-wrap">
+	<iframe src="https://storymaps.arcgis.com/stories/1bfd7f1466184bb09f699f586c1d97ae" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+</div>

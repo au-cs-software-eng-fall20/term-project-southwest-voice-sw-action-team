@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gentrification
+title: Gentrification Dashboard
 categories: misc
 ---
 
