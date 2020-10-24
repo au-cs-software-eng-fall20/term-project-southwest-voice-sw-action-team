@@ -17,10 +17,10 @@ minima:
   # generate social links in footer
   social_links:
     twitter: SWVoiceDC
-    github:  SWVoiceDC
+    github:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
     # devto: jekyll
     # dribbble: jekyll
-    facebook: jekyll
+    #facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
