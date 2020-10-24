@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 #build out posts for:
-Mission
-Contact
-AU Collaboration
+##Mission
+##Contact
+##AU Collaboration
+
