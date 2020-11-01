@@ -2,7 +2,7 @@ title: SW Capitol Digital Heritage Museum
 authors: Chris Williams, Dozie Anazia, Rocio Bereilh, Julia Murray, Gianna Williams
 email: your-email@domain.com
 description: # this means to ignore newlines until "show_excerpts:"
-  Click the Exhibits link to learn more about the history of SW DC. 
+  Click the Exhibits link to learn more about the history of SW DC.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -13,10 +13,8 @@ minima:
 
   # generate social links in footer
   social_links:
-  twitter: SWVoiceDC
+  twitter_username: SWVoiceDC
   github:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
-    # devto: jekyll
-    # dribbble: jekyll
     #facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
@@ -25,10 +23,6 @@ minima:
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
 
     # Mastodon instances
     # mastodon:
