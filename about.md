@@ -2,16 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-
-!(/img/Landing_1.png)
-
 ---
-#build out posts for:
-##Who we are: 
 Add description for Southwest Area Capitol Museum here. 
-
+#build out posts for:
+##Mission
 ##Contact
-
 ##AU Collaboration
-This site was developed in collaboration with American University software engineering students. 
+This site was developed in collaboration with American University students. 
 
