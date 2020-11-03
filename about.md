@@ -5,10 +5,12 @@ permalink: /about/
 ---
 Add description for Southwest Area Capitol Museum here. 
 
-##Mission
+#Mission
 Add mission statement here
-##Contact
+#Contact
 Add contact information here
-##AU Collaboration
+#AU Collaboration
 This site was developed in collaboration with American University students. 
+
+![SW DC aerial view from 1899](/img/Landing_1.jpg)
 
