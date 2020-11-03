@@ -6,10 +6,10 @@ permalink: /about/
 
 ![SW DC aerial view from GET YR](/img/Landing_1.jpg)
 
-##Mission
+## Mission
 Add mission statement here
-##Contact
+## Contact
 Add contact information here
-##AU Collaboration
+## AU Collaboration
 This site was developed in collaboration with American University students. 
 
