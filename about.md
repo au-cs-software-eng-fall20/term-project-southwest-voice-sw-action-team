@@ -11,9 +11,10 @@ Add mission statement here
 ## Contact
 Add contact information here
 ## AU Collaboration
-This site was developed in collaboration with American University students. 
+This site was developed in collaboration with American University students Dozie Anazia, Rocio Bereilh, Julia Murray, Gianna Williams 
 
-# ArcGIS Story map
+## ArcGIS Story map
+#Move to Virtual exhibit tab
 <style> 
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
