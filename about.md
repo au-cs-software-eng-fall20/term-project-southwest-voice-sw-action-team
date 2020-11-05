@@ -11,7 +11,8 @@ Add mission statement here
 ## Contact
 Add contact information here
 ## AU Collaboration
-This site was developed in collaboration with American University students Dozie Anazia, Rocio Bereilh, Julia Murray, Gianna Williams 
+This site was developed in collaboration with Chris Williams at SW Action and Dozie Anazia, Rocio Bereilh, Julia Murray and Gianna Williams from American University.
+ 
 
 ## ArcGIS Story map
 #Move to Virtual exhibit tab
@@ -19,7 +20,7 @@ This site was developed in collaboration with American University students Dozie
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 
+
 <div class="responsive-wrap">
 <iframe src="https://storymaps.arcgis.com/stories/1bfd7f1466184bb09f699f586c1d97ae" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
-
