@@ -3,7 +3,6 @@ layout: page
 title: Virtual Exhibits
 permalink: /virtual_exhibits/
 --- 
-## Virtual Tour
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
@@ -13,7 +12,6 @@ permalink: /virtual_exhibits/
 <iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
 
-## Photo Timeline
 
 <style> 
 .responsive-wrap iframe{ max-width: 100%;}
