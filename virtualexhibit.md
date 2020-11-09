@@ -1,7 +1,7 @@
 --- 
 layout: page
 title: Virtual Exhibits
-permalink: virtual_exhibits
+permalink: /virtual_exhibits/
 --- 
 ## Virtual Tour
 

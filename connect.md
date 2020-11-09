@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Connect
-permalink: connect
+permalink: /connect/
 ---
 
 
-## Add links to social media here
+## Add links to social media here?
+
