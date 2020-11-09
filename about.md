@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 --- 
 
-#![SW DC aerial view from GET YR](/img/Landing_1.jpg)
+##![SW DC aerial view from GET YR](/img/Landing_1.jpg)##
 
 ## Mission
 The SW Capitol Digital Heritage Museum in an online curation of the rich, diverse history and culture of the Southwest-Captiol neighborhood in Washington, DC.
