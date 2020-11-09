@@ -23,7 +23,7 @@ This site was developed in collaboration with Chris Williams at SW Action and Do
 <iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
 
-## ArcGIS Story map
+## Photo Timeline
 #Move to Virtual exhibit tab
 
 
@@ -33,6 +33,6 @@ This site was developed in collaboration with Chris Williams at SW Action and Do
 
 
 <div class="responsive-wrap">
-<iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/1bfd7f1466184bb09f699f586c1d97ae" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
 
