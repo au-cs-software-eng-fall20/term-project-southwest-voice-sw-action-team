@@ -20,7 +20,7 @@ This site was developed in collaboration with Chris Williams at SW Action and Do
 </style>
 
 <div class="responsive-wrap">
-<iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10/edit" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
 
 ## ArcGIS Story map
