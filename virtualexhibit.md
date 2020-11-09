@@ -14,8 +14,6 @@ permalink: virtual_exhibits
 </div>
 
 ## Photo Timeline
-#Move to Virtual exhibit tab
-
 
 <style> 
 .responsive-wrap iframe{ max-width: 100%;}
