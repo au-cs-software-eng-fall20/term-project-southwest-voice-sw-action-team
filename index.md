@@ -12,6 +12,6 @@ layout: home
 </style>
 
 <div class="responsive-wrap">
-<iframe src="https://storymaps.arcgis.com/stories/9b4637276fb842a7892a86fd94dbd83c" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/9b4637276fb842a7892a86fd94dbd83c?cover=false" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
 
