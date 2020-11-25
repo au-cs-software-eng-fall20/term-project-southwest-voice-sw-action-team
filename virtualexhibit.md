@@ -9,7 +9,11 @@ permalink: /virtual_exhibits/
 </style>
 
 <div class="responsive-wrap">
-<iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10" width="1500x" height="100%" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+</div>
+
+<div id='permalink_section'>
+  <a href="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10">Virtual Tour</a>
 </div>
 
 
