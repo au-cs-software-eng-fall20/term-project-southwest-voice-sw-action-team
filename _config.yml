@@ -4,6 +4,7 @@ email: your-email@domain.com
 description: # this means to ignore newlines until "show_excerpts:"
   Click the Exhibits link to learn more about the history of SW DC.
 
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 #title-logo new field when used displays a logo
@@ -51,5 +52,5 @@ linkedin: https://www.linkedin.com/in/dozie-anazia-01298418/ https://www.linkedi
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
