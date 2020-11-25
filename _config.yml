@@ -1,13 +1,15 @@
-title: Southwest Voice Digital Museum
-author: AU swa team
-
+title: SW Capitol Digital Heritage Museum
+authors: Chris Williams, Dozie Anazia, Rocio Bereilh, Julia Murray, Gianna Williams
 email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: # this means to ignore newlines until "show_excerpts:"
+  Click the Exhibits link to learn more about the history of SW DC.
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
+
+#title-logo new field when used displays a logo
+#50px height is ideal for Jekyll theme
+title-logo: /Image/title-logo.png
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -16,22 +18,16 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: SWVoiceDC
-    github:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
-    # devto: jekyll
-    # dribbble: jekyll
+  twitter: SWVoiceDC
+  github:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
     #facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+linkedin: https://www.linkedin.com/in/dozie-anazia-01298418/ https://www.linkedin.com/in/rocio-bereilh-709581171/ https://www.linkedin.com/in/julia-murray-83008b177
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
 
     # Mastodon instances
     # mastodon:
