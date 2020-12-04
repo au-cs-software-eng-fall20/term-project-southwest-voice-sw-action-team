@@ -5,5 +5,5 @@ permalink: /connect/
 ---
 
 
-## Add links to social media here?
+## Check back soon for ways to connect! 
 
