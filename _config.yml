@@ -9,25 +9,40 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 #title-logo new field when used displays a logo
 #50px height is ideal for Jekyll theme
-title-logo: /Image/title-logo.png
+title-logo: /Image/imgonline-com-ua-resize-C0rg8CzDM3G.jpg
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  
+
 
   # generate social links in footer
   social_links:
-  twitter: SWVoiceDC
-  github:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
-    #facebook: jekyll
+
+    twitter: SWVoiceDC
+
+
+#    linkedin: rocío-bereilh-709581171
+#    linkedin: julia-murray-83008b177
+#    linkedin: dozie-anazia-01298418
+
+
+#    github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-linkedin: https://www.linkedin.com/in/dozie-anazia-01298418/ https://www.linkedin.com/in/rocio-bereilh-709581171/ https://www.linkedin.com/in/julia-murray-83008b177
+#    linkedin: giannaewilliams
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
     # Mastodon instances
     # mastodon:
@@ -42,7 +57,6 @@ linkedin: https://www.linkedin.com/in/dozie-anazia-01298418/ https://www.linkedi
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
@@ -53,4 +67,4 @@ theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+
