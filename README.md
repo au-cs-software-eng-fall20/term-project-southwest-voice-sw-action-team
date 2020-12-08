@@ -43,7 +43,7 @@ our class last semester. If you plan on adding information or just checking out 
 4) To run the webite on your local computer run   `jekyll s` this run the site on your local server
 5) to edit any thing on the site got to the .md files and mess around with the site! Enjoy 
 
-## Contact information from previous developer if need help 
+## Contact information of previous developers
 
 [Gianna Williams](https://www.linkedin.com/in/giannaewilliams/)
 [Dozie Anazia](https://www.linkedin.com/in/dozie-anazia-01298418/)
