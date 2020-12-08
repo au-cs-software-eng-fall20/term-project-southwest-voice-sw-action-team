@@ -38,7 +38,7 @@ our class last semester. If you plan on adding information or just checking out 
 2) [Download Jekyll on terminal or your Bash](https://jekyllrb.com/docs/installation/)
     If errors occur uses these Documenations.  [Link](https://askubuntu.com/questions/406643/warning-you-dont-have-a-directory-in-your-path-gem-executables-will-not-run)
     PLEASE NOT THIS FOR macOS
-    if you run this command `PATH="`ruby -e 'puts Gem.user_dir'`/bin:$PATH"` then now run this command on terminal `gem install --user-install bundler jekyll`
+    if you run this command `PATH="ruby -e 'puts Gem.user_dir'/bin:$PATH"` then now run this command on terminal `gem install --user-install bundler jekyll`
 3) Check if you have it on your terminal by running  `jekyll` 
 4) To run the webite on your local computer run   `jekyll s` this run the site on your local server
 5) to edit any thing on the site got to the .md files and mess around with the site! Enjoy 
