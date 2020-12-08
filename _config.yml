@@ -19,8 +19,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: SWVoiceDC
-
-    #facebook: jekyll
+    facebook: swdcaction
     # flickr:   jekyll
     # instagram: jekyll
 
