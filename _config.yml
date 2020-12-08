@@ -9,7 +9,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 #title-logo new field when used displays a logo
 #50px height is ideal for Jekyll theme
-title-logo: /Image/title-logo.png
+title-logo: Image/imgonline-com-ua-resize-bh92Ihqyc3gSC.jpg
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -18,12 +18,12 @@ minima:
 
   # generate social links in footer
   social_links:
-  twitter: SWVoiceDC
-  github:  au-cs-software-eng-fall20/term-project-southwest-voice-sw-action-team
+    twitter: SWVoiceDC
+
     #facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-linkedin: https://www.linkedin.com/in/dozie-anazia-01298418/ https://www.linkedin.com/in/rocio-bereilh-709581171/ https://www.linkedin.com/in/julia-murray-83008b177
+
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
