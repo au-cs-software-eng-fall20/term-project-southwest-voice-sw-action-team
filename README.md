@@ -1,6 +1,6 @@
 # SouthWest Voice SW Action - Virtual Exhbit  
 
-
+[Website](https://au-cs-software-eng-fall20.github.io/term-project-southwest-voice-sw-action-team/)
 
 ## What is SouthWest? 
 Group of SW DC residents who are organizing and advocating for anti-racist development and an equitable and environmentally sustainable world.” (from swdcaction.com/about)
@@ -24,7 +24,7 @@ Git, Styling, Getting Maping
 Better Styling for better companility of the theme of SouthWest
 
 
-## Demo of Virtual Exhbit 
+
 
 
 
@@ -36,17 +36,17 @@ our class last semester. If you plan on adding information or just checking out 
 
 1) Clone this repo
 2) [Download Jekyll on terminal or your Bash](https://jekyllrb.com/docs/installation/)
-    If errors occur uses these Documenations.  [Link] (https://askubuntu.com/questions/406643/warning-you-dont-have-a-directory-in-your-path-gem-executables-will-not-run)
+    If errors occur uses these Documenations.  [Link](https://askubuntu.com/questions/406643/warning-you-dont-have-a-directory-in-your-path-gem-executables-will-not-run)
     PLEASE NOT THIS FOR macOS
-    if you run this command `PATH="`ruby -e 'puts Gem.user_dir'`/bin:$PATH"` then now run this command on terminal `gem install --user-install bundler jekyll`
+    if you run this command `PATH="ruby -e 'puts Gem.user_dir'/bin:$PATH"` then now run this command on terminal `gem install --user-install bundler jekyll`
 3) Check if you have it on your terminal by running  `jekyll` 
 4) To run the webite on your local computer run   `jekyll s` this run the site on your local server
 5) to edit any thing on the site got to the .md files and mess around with the site! Enjoy 
 
-## Contact information from previous developer if need help 
+## Contact information of previous developers
 
-[Gianna Williams] (https://www.linkedin.com/in/giannaewilliams/)
-[Dozie Anazia] (https://www.linkedin.com/in/dozie-anazia-01298418/)
-[Julia Murray] (https://www.linkedin.com/in/julia-murray-83008b177/)
-[Rocío Bereilh] (https://www.linkedin.com/in/roc%C3%ADo-bereilh-709581171/)
+[Gianna Williams](https://www.linkedin.com/in/giannaewilliams/)
+[Dozie Anazia](https://www.linkedin.com/in/dozie-anazia-01298418/)
+[Julia Murray](https://www.linkedin.com/in/julia-murray-83008b177/)
+[Rocío Bereilh](https://www.linkedin.com/in/roc%C3%ADo-bereilh-709581171/)
     
