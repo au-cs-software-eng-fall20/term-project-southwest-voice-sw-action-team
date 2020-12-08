@@ -320,3 +320,16 @@ To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+
+## ARCGIS Storymaps
+
+Follow this link on for instructions on how to properly setup your personal StoryMaps:
+
+https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4
+
+## Flickr Account Group
+
+https://www.flickr.com/
+
+Once you have the Flickr account created, search flickr groups for "SWDC"
