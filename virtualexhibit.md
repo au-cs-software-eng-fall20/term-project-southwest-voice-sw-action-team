@@ -29,7 +29,8 @@ permalink: /virtual_exhibits/
 </style>
 
 <div class="responsive-wrap">
-<iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10" width="1500x" height="100%" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/4abf393a28054d7d8647cfac7ecb0a10" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+
 </div>
 
 
@@ -56,7 +57,7 @@ permalink: /virtual_exhibits/
 
 <p></p>
 <div class="responsive-wrap">
-<iframe src="https://storymaps.arcgis.com/stories/1bfd7f1466184bb09f699f586c1d97ae" width="1500x" height="100%" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/1bfd7f1466184bb09f699f586c1d97ae" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
 </body>
 </html>
